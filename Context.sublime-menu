@@ -1,6 +1,6 @@
 [{
   "id": "sublimechineseconvert",
-  "caption": "繁简体转换",
+  "caption": "繁簡體轉換",
   "children": [{
         "caption": "简体到繁體",
         "command": "chinese_convert",
